@@ -1,0 +1,37 @@
+background-image: url("https://i.pinimg.com/originals/ce/9e/a9/ce9ea9bef8bdbf88aee347937be0aed9.jpg");
+    background: repeat-x repeat-y;
+    margin: 0;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Mukta', sans-serif;
+}
+.encabezado-pagina{
+    background-color: rgba(35, 64, 65, 0.575);
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.principal{
+    margin: auto;
+    background-color: white;
+    width: 50%;
+    height: 100px;
+}
+.encabezado-publicacion{
+     background-color: rgb(202, 242, 245);
+   
+        border-radius: 5px;
+      display: inline-block;
+}
+.fecha{
+    text-align: right;
+    color: gray;
+    margin: auto 0;
+    margin-left: auto;
+    display: inline-block;
+}
+.publicacion  {
+    background-color:  rgb(202, 242, 245);
+    text-align: justify;
+    border-radius: 5px;
+}
